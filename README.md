@@ -357,14 +357,6 @@ MediaCrawler 支持多种数据存储方式，包括 CSV、JSON、JSONL、Excel�
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://proxylane.dev/?utm_source=mediacrawler&utm_medium=partnership&utm_campaign=mediacrawler_sponsor_202610&utm_content=github_readme"><img src="docs/static/images/proxylane_banner.png" width="180" alt="ProxyLane"></a>
-      </td>
-      <td valign="middle">
-        <a href="https://proxylane.dev/?utm_source=mediacrawler&utm_medium=partnership&utm_campaign=mediacrawler_sponsor_202610&utm_content=github_readme">ProxyLane</a> 提供中国住宅 IP（电信、联通、移动），适合在海外服务器运行 MediaCrawler，出口可固定到上海、北京、广州、深圳等城市。在 static 模式的代理用户名后加 <code>_c_CN_city_Shanghai</code> 即可使用上海住宅 IP，完整配置见 <a href="docs/proxylane/README.md">3 步接入指南</a>。MediaCrawler 用户使用优惠码 <code>MEDIACRAWLER3GB</code> 注册即可免费领取 <strong>3GB</strong> 流量。👉 <a href="https://proxylane.dev/redeem?code=MEDIACRAWLER3GB&utm_source=mediacrawler&utm_medium=partnership&utm_campaign=mediacrawler_sponsor_202610&utm_content=github_readme">免费领取 3GB</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
         <a href="https://proxy-seller.com/?partner=72D769D7B7FB4A8B"><img src="docs/static/images/proxy_seller_logo.png" width="180" alt="Proxy-Seller"></a>
       </td>
       <td valign="middle">
@@ -378,6 +370,14 @@ MediaCrawler 支持多种数据存储方式，包括 CSV、JSON、JSONL、Excel�
       <td valign="middle">
         感谢 <a href="https://dragtokens.com">DragTokens（Drag API）</a> 对本项目的赞助！DragTokens 专注于为开发者提供多模型 API 中转服务，支持 Claude Code、Codex、Gemini CLI 等 AI 编程工具，覆盖 GPT、Claude、Gemini 等主流模型。Claude 官方客户端专用分组倍率低至 1.1×（对比官方 API 约 1.55 折，节省约 84.5%）、Codex 倍率低至 0.3×（约 0.42 折，节省约 96%）、Gemini 倍率低至 0.25×（约 0.35 折，节省约 96.5%），号池峰值 TPM 达 7 亿。<br><br>
         🎁 通过 <a href="https://dragtokens.com">专属链接</a>注册的新用户即送赠金，单次充值满 100 元还可享受 10% 返现！配套新手入门、工具配置及 API 示例文档，接入有教程，使用有指引。不存储您的提示词与模型回复，并为企业及高校团队提供专属账户池、对公转账与开票支持。
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://mangoproxy.com/?utm_medium=partner&amp;utm_campaign=nanmicoder_github"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/static/images/mangoproxy_logo_dark.png"><img src="docs/static/images/mangoproxy_logo.png" width="180" alt="MangoProxy"></picture></a>
+      </td>
+      <td valign="middle">
+        <a href="https://mangoproxy.com/?utm_medium=partner&amp;utm_campaign=nanmicoder_github">MangoProxy</a> 为网页抓取、自动化和数据采集提供住宅、ISP、数据中心及移动代理，拥有覆盖 200 多个国家的 9000 万以上 IP，支持 HTTP(S)、SOCKS5、灵活的 IP 轮换和 API 接入。使用优惠码 <code>CODER</code> 购买静态 ISP 代理可享 <strong>7% 优惠</strong>。👉 <a href="https://mangoproxy.com/?utm_medium=partner&amp;utm_campaign=nanmicoder_github">访问 MangoProxy</a>
       </td>
     </tr>
   </tbody>
